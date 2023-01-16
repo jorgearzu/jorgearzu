@@ -1,0 +1,51 @@
+@import url('http://fonts.cdnfonts.com/css/arial-rounded-mt');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css');
+
+body {
+  background-color: #37877A;
+  font-family: 'Arial Rounded MT Bold', sans-serif;
+  color: #212529;
+}
+
+.logo-container {
+  height: 100vh;
+  color: #fff;
+}
+
+.logo-container h1 {
+  font-size: 2em;
+}
+
+.logo-container i {
+  font-size: 2.5em;
+}
+
+.logo-container a {
+  color: #fff;
+}
+
+.logo-container a:hover,
+.logo-container a:focus {
+  color: rgb(232, 232, 232);
+}
+
+.logo {
+  max-width: 200px;
+}
+
+.links a,
+.links a:hover,
+.links a:focus {
+  padding: 0;
+  color: #212529;
+  text-decoration: none;
+}
+
+.card {
+  border: none;
+  padding: 0;
+}
+
+.card h6 {
+  line-height: inherit;
+}
